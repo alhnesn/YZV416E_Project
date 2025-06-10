@@ -16,7 +16,7 @@ Istanbul Technical University
 
 ## Overview
 
-This Jupyter notebook implements a comprehensive jigsaw puzzle solver that can automatically reconstruct square jigsaw puzzles from individual piece images. The solver uses advanced computer vision techniques including LAB color space analysis, asymmetric dissimilarity measures, and greedy placement algorithms.
+This Jupyter notebook implements a comprehensive jigsaw puzzle solver that can automatically reconstruct square jigsaw puzzles from individual piece images. The solver uses methods including LAB color space analysis, asymmetric dissimilarity measures, and greedy placement algorithms.
 
 ## Recommended Environment
 
