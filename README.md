@@ -22,7 +22,7 @@ This Jupyter notebook implements a comprehensive jigsaw puzzle solver that can a
 
 **⭐ We strongly recommend running this notebook on Google Colab** for the best experience. The notebook includes Google Colab-specific features and the environment comes pre-configured with most required dependencies.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhnesn/YZV416E_Project/jigsaw_puzzle_solver.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhnesn/YZV416E_Project/blob/main/jigsaw_puzzle_solver.ipynb)
 
 ## Features
 
